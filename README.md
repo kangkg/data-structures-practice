@@ -1,1 +1,3 @@
 # data-structures-practice
+
+Just some practice implementing data structures in Ruby...
